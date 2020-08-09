@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, welcome on my profile 👋
+
+## Let me introduce myself
+
 
 <!--
 **Tradou/Tradou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
