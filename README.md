@@ -1,7 +1,9 @@
-### Hi, welcome on my profile 👋
+## ✨Hi, welcome on my profile ✨ 
+  
+I'm currently a student of WildCodeSchool where I'm learning Javascript (*especially React and Node*).  
+During my spare time I'm also learning Python :snake:.
 
-## Let me introduce myself
-
+Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-aidoud/)
 
 <!--
 **Tradou/Tradou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
