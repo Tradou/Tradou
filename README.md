@@ -1,5 +1,5 @@
-## ✨Hi, welcome on my profile ✨ 
-  
+## ✨ Hi, welcome on my profile ✨ 
+
 I'm currently a student of WildCodeSchool where I'm learning Javascript (*especially React and Node*).  
 During my spare time I'm also learning Python :snake:.
 
