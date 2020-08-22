@@ -1,7 +1,6 @@
 ## ✨ Hi, welcome on my profile ✨ 
 
 I'm currently a student of WildCodeSchool where I'm learning Javascript (*especially React and Node*).  
-During my spare time I'm also learning Python :snake:.
 
 Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-aidoud/).
 
