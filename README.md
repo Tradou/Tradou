@@ -4,6 +4,12 @@ I'm currently a student of WildCodeSchool where I'm learning Javascript (*especi
 
 Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-aidoud/).
 
+### Some links 
+
+[ShakeIt](https://shakeit.netlify.app/) A project ( made by 4 colleagues of WildcodeSchool and I ) where a user can search some cocktails ( React - MongoDB - API (cocktailDB) 
+
+
+
 <!--
 **Tradou/Tradou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
