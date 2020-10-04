@@ -6,7 +6,7 @@ Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-
 
 ### Some links 
 
-[ShakeIt](https://shakeit.netlify.app/) A project ( made by 4 colleagues of WildcodeSchool and I ) where a user can search some cocktails ( React - MongoDB - API (cocktailDB) 
+A project ( made by 4 colleagues of WildcodeSchool and I ) where a user can search some cocktails ( React - MongoDB - API (cocktailDB) ). [Click here to have a drink](https://shakeit.netlify.app/) 
 
 
 
