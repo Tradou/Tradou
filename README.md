@@ -5,6 +5,7 @@ I'm currently a student of WildCodeSchool where I'm learning Javascript (*especi
 Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-aidoud/).
 
 ### Some links 
+You can visit my portfolio [here](https://www.trad-aidoud.fr/)
 
 ShakeIt is a project ( made by 4 colleagues of WildcodeSchool and I ) where a user can search some cocktails ( React - MongoDB - API (cocktailDB) ). [Click here to have a drink](https://shakeit.netlify.app/) 
 
