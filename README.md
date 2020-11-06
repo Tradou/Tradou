@@ -7,6 +7,8 @@ Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-
 ### Some links 
 You can visit my portfolio [here](https://www.trad-aidoud.fr/)
 
+Thirsty? Have a drink [here](https://www.vin.trad-aidoud.fr/). I made this little website in order to discover Next.js.
+
 ShakeIt is a project ( made by 4 colleagues of WildcodeSchool and I ) where a user can search some cocktails ( React - MongoDB - API (cocktailDB) ). [Click here to have a drink](https://shakeit.netlify.app/) 
 
 
