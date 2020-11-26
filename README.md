@@ -2,7 +2,7 @@
 
 I'm currently a student of WildCodeSchool where I'm learning Javascript (*especially React and Node*).  
 
-Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-aidoud/).
+Don't hesitate to take a look at my [LinkedIn](https://www.linkedin.com/in/trad-aidoud/) or visit my [portfolio](https://www.trad-aidoud.fr).
 
 ### Some links 
 You can visit my portfolio [here](https://www.trad-aidoud.fr/)
